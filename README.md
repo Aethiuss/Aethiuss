@@ -14,6 +14,6 @@ Currently diving into the fascinating world of **Self Hosting, Python, Cloud sol
 Feel free to drop me a message at **aethius@proton.me**
 
 ## 🌈 Fun Fact:
-When I’m not coding, you can find me sipping coffee ☕ and exploring nature 🌿 on weekends.
+When I’m not coding, you can find me sipping coffee ☕ and exploring nature on weekends 🌿.
 
 Thanks for stopping by! Let's create something amazing together! 🚀
